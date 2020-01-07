@@ -1,0 +1,38 @@
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Play', sans-serif;
+}
+
+/* HEADER */
+
+.logonav{
+    max-width: 100px;
+    max-height: 150px;
+}
+
+#contentcollapse a{
+    text-decoration: none;
+    color: white;
+    font-size: 20pt;
+}
+
+/* FOOTER */
+
+#footer{
+    text-align: center;
+}
+
+.logofoot{
+    max-width: 50px;
+    max-height: 100px;
+}
+
+#mentions a{
+    text-decoration: none;
+    color: white;
+    font-size: 20pt;
+}
+
+
