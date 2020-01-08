@@ -20,15 +20,18 @@ body{
 
 /* CORPS du document*/
 
-.col-xl-6{
-    max-width: ;
+.img-fluid{
+    max-width: 702px;
+    max-height: 722px;
+    text-align: center;
 }
 
 /* FOOTER */
 
 #footer{
     text-align: center;
-    margin: 20px 20px 20px 20px;
+    margin-top: 20px; 
+    position: sticky; bottom: 0px;
 }
 
 .logofoot{
