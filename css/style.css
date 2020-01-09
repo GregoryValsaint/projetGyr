@@ -20,10 +20,9 @@ body{
 
 /* CORPS du document*/
 
-.img-fluid{
-    max-width: 702px;
-    max-height: 722px;
-    text-align: center;
+.row{
+    position: relative;
+    margin-bottom: 350px;
 }
 
 /* FOOTER */
